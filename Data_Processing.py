@@ -1,5 +1,7 @@
 #%%
 
+# Code development was strongly assisted by ChatGPT
+
 import wave
 import struct
 import numpy as np
