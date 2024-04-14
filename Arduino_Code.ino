@@ -1,3 +1,6 @@
+
+// Code development was assisted by ChatGPT
+
 #include <SPI.h>
 #include <SD.h>
 
